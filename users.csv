@@ -1,0 +1,10 @@
+user_id|username|fullname|password|type|status|balance|freeBets
+1|admin|pol gar|adminpass|3|||
+2|punter2|punter punteropoulos|punter2|1|A|100|124,23.5,7,699
+3|simple|simple|simple|1|L,asfasdf|0|
+4|guest|guest|guest|0|||
+5|trader|kostas pol trader|trader123|2|||
+6|punter|punter vol2|punter|1|A,|48587|63,63.69
+7|kysdas|kdsa ys|kysdsa|1|A|116.467|
+8|Johnaras|dsdsa sda|astynomia|1|A,|1232|
+9|irida|spyridoula|12345|1|A,klapsiara|17075|100
